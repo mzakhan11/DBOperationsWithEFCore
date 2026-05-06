@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\migrations\\20260407142552_tableschanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\migrations\\20260407142552_tableschanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\migrations\\20260407141927_addedmoretables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\migrations\\20260407141927_addedmoretables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\dboperationswithefcoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\dboperationswithefcoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\migrations\\20260407131752_addednewcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\migrations\\20260407131752_addednewcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\migrations\\20260407131522_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\migrations\\20260407131522_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\migrations\\20260407143336_masterdatalanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\migrations\\20260407143336_masterdatalanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\migrations\\20260407143052_adddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\migrations\\20260407143052_adddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\muhammad zain ahmed khan ef core 04.06.2026\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\migrations\\20260407133807_addedlanguagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940F14D3-3319-4214-8B7F-FAB83EE977C2}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\migrations\\20260407133807_addedlanguagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LanguageController.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\LanguageController.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Controllers\\LanguageController.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\LanguageController.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Controllers\\LanguageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:38:33.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:05:38.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260407143052_AddData.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407143052_AddData.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20260407143052_AddData.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407143052_AddData.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20260407143052_AddData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:30:52.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260407142552_TablesChanges.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407142552_TablesChanges.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20260407142552_TablesChanges.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407142552_TablesChanges.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20260407142552_TablesChanges.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:25:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260407141927_AddedMoreTables.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407141927_AddedMoreTables.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20260407141927_AddedMoreTables.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407141927_AddedMoreTables.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20260407141927_AddedMoreTables.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:19:27.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookPrice.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:54:15.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrencyType.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\CurrencyType.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\CurrencyType.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\CurrencyType.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\CurrencyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:49:50.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABIwBYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:27:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260407143336_masterDataLanguage.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407143336_masterDataLanguage.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20260407143336_masterDataLanguage.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407143336_masterDataLanguage.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20260407143336_masterDataLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:33:36.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260407133807_AddedLanguageTable.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407133807_AddedLanguageTable.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20260407133807_AddedLanguageTable.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407133807_AddedLanguageTable.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20260407133807_AddedLanguageTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:38:08.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Language.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\Language.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Language.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:33:28.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T13:21:53.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\Book.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Book.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:27:44.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBOperationsWithEFCoreApp.csproj",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T13:21:45.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260407131752_AddedNewColumn.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407131752_AddedNewColumn.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20260407131752_AddedNewColumn.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407131752_AddedNewColumn.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20260407131752_AddedNewColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:17:52.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260407131522_InitDb.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407131522_InitDb.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20260407131522_InitDb.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20260407131522_InitDb.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20260407131522_InitDb.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:15:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Program.cs",
+              "ToolTip": "D:\\Muhammad Zain Ahmed Khan EF Core 04.06.2026\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Program.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T15:11:51.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

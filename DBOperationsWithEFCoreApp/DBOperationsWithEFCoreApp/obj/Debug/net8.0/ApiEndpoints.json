@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "DBOperationsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetAllCurrencies",
+    "RelativePath": "api/currencies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOperationsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetCurrencyByIdAsync",
+    "RelativePath": "api/currencies/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOperationsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetCurrencyByNameAsync",
+    "RelativePath": "api/currencies/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "description",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOperationsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetCurrenciesByIdsAsync",
+    "RelativePath": "api/currencies/all",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ids",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOperationsWithEFCoreApp.Controllers.LanguageController",
+    "Method": "GetAllLanguages",
+    "RelativePath": "api/languages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
