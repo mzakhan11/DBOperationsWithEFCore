@@ -62,7 +62,7 @@ namespace DBOperationsWithEFCoreApp.Controllers
             //var result = await (from currencies in _appDBContext.Currencies
             //                    select currencies).ToListAsync();
 
-            return Ok(result); abcd
+            return Ok(result);
         }
 
         [HttpPost("all")]
